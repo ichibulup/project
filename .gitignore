@@ -1,5 +1,6 @@
 .vs
 
 /react/node_modules
+/vue/node_modules
 /node/node_modules
 /express/node_modules
